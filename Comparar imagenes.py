@@ -6,7 +6,7 @@ import os
 from os import mkdir
 
 # Directorio de las imagenes
-path = os.path.expanduser(r"C:\Users\jorge\Documents\Python Scripts\Compare_images")
+path = os.path.expanduser(r"___________") 
 
 carpeta_1 = os.path.join(path,"folder_1")
 carpeta_2 = os.path.join(path, "folder_2")
